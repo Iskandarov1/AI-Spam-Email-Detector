@@ -1,5 +1,4 @@
 # AI-Spam-Email-Detector
-# Spam Email Detection
 
 A comprehensive project to classify emails as **spam** or **ham (non-spam)** using deep learning. This repository provides an end-to-end solution for detecting spam emails with high accuracy while ensuring a balanced and unbiased approach.
 
